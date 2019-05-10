@@ -56,6 +56,14 @@
 	border-left: 10x solid black;
 }
 
+@font-face {
+    font-family: 'Lohit Devanagari';
+    src: url('lohit-devanagari-webfont.woff2') format('woff2'),
+         url('lohit-devanagari-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
 .nepali {
   font-family: "Lohit Devanagari";
 }
