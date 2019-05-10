@@ -1,35 +1,49 @@
 
 .abox{
-	border: 1px solid;
-	height: 200px;
+	border: 2px solid;
+	height: auto;
 }
 .bbox{
-	border: 1px solid;
-	height: 240px;
+	border: 2px solid;
+	height: auto;
 	border-right-width: 1px;
 }
 
 .cbox{
-	border: 1px solid;
-	height: 170px;
+	border: 2px solid;
+	height: auto;
 	border-right-width: 1px;
 }
 
 .dbox{
-	border: 1px solid;
-	height: 200px;
+	border: 2px solid;
+	height: auto;
 }
-/*
+
 .ebox{
 	border: 2px solid;
-	height: 200px;
-}*/
+	height: auto;
+}
+
+
+.fbox{
+	border: 2px solid;
+	height:auto;
+	}
+
+
+.gbox{
+	border: 2px solid;
+	height:auto;
+	}
+
+
 @media screen and (min-width: 100px) {
   .logo {
     display: block;
   	margin-left: auto;
   	margin-right: auto;
-  	width: 40%;
+  	width:auto;
   }
 }
 
